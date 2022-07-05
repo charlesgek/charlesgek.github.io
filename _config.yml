@@ -19,8 +19,8 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.jpg
-author: Charles
-author_bio: Hi, my name is Charles
+author: Charles GEK
+author_bio: Open Source advocate and Privacy and Security researcher 
 author_email: #
 author_location: London
 author_website_url: "https://charlesgek.github.com"
