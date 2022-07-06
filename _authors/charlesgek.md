@@ -3,7 +3,7 @@ name: Charles
 username: charlegek
 bio: "Open Source advocate and Privacy and Security researcher"
 site: https://charlesgek.github.io
-avatar: profile.webp
+avatar: profile.jpg
 email: #
 social:
     - title: "github"
