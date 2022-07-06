@@ -1,4 +1,4 @@
-/* devlopr-jekyll styling */
+/* theme-jekyll styling */
 
 /* variables */
 $body-typeface:'Quicksand', sans-serif;
@@ -43,6 +43,8 @@ html[data-theme="light"] {
     --newsletter-background-color: #00000008;
     --button-background-color: #fff;
 }
+
+@import    "addon/module", "addon/variables", "addon/syntax";
 
 @media (prefers-color-scheme: dark) {
      /* Dark Mode */

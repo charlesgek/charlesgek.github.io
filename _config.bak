@@ -98,6 +98,8 @@ author_project_details:
 # syntax highlighter
 markdown: kramdown
 highlighter: rouge
+permalink: pretty
+
 #kramdown:
   #syntax_highlighter: rouge
   #syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
@@ -108,7 +110,6 @@ highlighter: rouge
     #block:
       #line_numbers: true
       #start_line: 1
-permalink: pretty
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: false

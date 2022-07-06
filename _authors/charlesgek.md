@@ -1,10 +1,10 @@
 ---
 name: Charles
 username: charlegek
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
-avatar: johndoe.png
-email: mail@johndoe.com
+bio: "Open Source advocate and Privacy and Security researcher"
+site: https://charlesgek.github.io
+avatar: profile.webp
+email: #
 social:
     - title: "github"
       url: "https://github.com/johndoe"
