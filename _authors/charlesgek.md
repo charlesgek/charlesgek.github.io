@@ -7,25 +7,25 @@ avatar: profile.webp
 email: #
 social:
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/charlesgek"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
+      url: #
     - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      url: #
     - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
+      url: #
     - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
+      url: #
     - title: "behance"
-      url: "https://behance.com/johndoe"
+      url: #
     - title: "instagram"
-      url: "https://instagram.com/johndoe"
+      url: #
     - title: "medium"
-      url: "https://medium.com/johndoe"
+      url: #
     - title: "telegram"
-      url: "https://telegram.com/johndoe"
+      url: #
     - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
+      url: #
     - title: "flickr"
-      url: "https://flickr.com/johndoe"
+      url: #
 ---
