@@ -1,5 +1,5 @@
 ---
-name: Charles
+name: Charles GEK
 username: charlegek
 bio: "Open Source advocate and Privacy and Security researcher"
 site: https://charlesgek.github.io
