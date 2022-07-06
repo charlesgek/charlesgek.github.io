@@ -17,9 +17,9 @@ permalink: /blog/adding-categories-tags-in-posts/
 To add categories in blog posts all you have to do is add a **category** key with category values in frontmatter of the post :
 
 ```yml
----
+
 category: ['jekyll', 'guides', 'sample_category']
----
+
 ```
 
 Then to render this category using link and pages. All we need to do is,

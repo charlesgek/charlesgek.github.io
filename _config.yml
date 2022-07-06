@@ -66,7 +66,7 @@ author_project_details:
 
 # social links
 #twitter_username: johndoe
-#github_username:  johndoe
+github_username:  charlesgek
 #facebook_username: johndoe
 #linkedin_username: johndoe
 #behance_username: johndoe
@@ -96,10 +96,8 @@ author_project_details:
 #olvy_widget_type: sidebar
 
 # syntax highlighter
-markdown: kramdown
-highlighter: rouge
-#kramdown:
-  #syntax_highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
   #syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
     #css_class: highlight
     # default_lang: console

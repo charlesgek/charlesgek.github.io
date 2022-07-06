@@ -44,7 +44,10 @@ html[data-theme="light"] {
     --button-background-color: #fff;
 }
 
-@import    "addon/module", "addon/variables", "addon/syntax";
+@import
+    "addon/module",
+    "addon/variables",
+    "addon/syntax";
 
 @media (prefers-color-scheme: dark) {
      /* Dark Mode */
