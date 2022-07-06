@@ -4,7 +4,7 @@ username: charlegek
 bio: "Open Source advocate and Privacy and Security researcher"
 site: https://charlesgek.github.io
 avatar: profile.webp
-email: #
+#email: #
 social:
     - title: "github"
       url: "https://github.com/charlesgek"
