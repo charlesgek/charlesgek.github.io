@@ -3,8 +3,8 @@ layout: full-width
 ---
 
 <script>
-document.ready(function() {
-    document.getElementById("typewriteText").typewrite({
+  $(document).ready(function() {
+    $("#typewriteText").typewrite({
       actions: [{ type: "{{site.typewrite-text}}" }]
     });
   });
