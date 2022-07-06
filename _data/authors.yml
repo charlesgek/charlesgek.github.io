@@ -5,7 +5,7 @@ charlesgek:
    site: https://charlesgek.github.io
    avatar: profile.webp
    bio: "Open Source advocate and Privacy and Security researcher"
-   email: mail@johndoe.com
+   email: #
    social:
       - title: "github"
         url: "https://github.com/charlesgek"
@@ -30,20 +30,20 @@ charlesgek:
       #- title: "flickr"
       #  url: "https://flickr.com/johndoe"
 
-xplor4r:
-   name: Sujay kundu
-   username: xplor4r
-   site: https://sujaykundu.com
-   avatar: xplor4r.png
-   bio: "Full Stack Web Developer, based in Bangalore, India"
-   email: mail@sujaykundu.com
-   social:
-      - title: "github"
-        url: "https://github.com/sujaykundu777"
-      - title: "linkedin"
-        url: "https://www.linkedin.com/in/sujaykundu"
-      - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/sujay.kundu2"
+#xplor4r:
+   #name: Sujay kundu
+   #username: xplor4r
+   #site: https://sujaykundu.com
+   #avatar: xplor4r.png
+   #bio: "Full Stack Web Developer, based in Bangalore, India"
+   #email: mail@sujaykundu.com
+   #social:
+      #- title: "github"
+      #  url: "https://github.com/sujaykundu777"
+      #- title: "linkedin"
+      #  url: "https://www.linkedin.com/in/sujaykundu"
+      #- title: "youtube"
+      #  url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      #- title: "facebook"
+      #  url: "https://www.facebook.com/sujay.kundu2"
 
