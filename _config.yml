@@ -165,18 +165,6 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-#  - jekyll-admin
-
-# Jekyll Admin Config
-jekyll_admin:
-  # hidden_links:
-  #   - posts
-  #   - pages
-  #   - staticfiles
-  #   - datafiles
-  #   - configuration
-  homepage: "posts"
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
