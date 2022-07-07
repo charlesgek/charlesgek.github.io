@@ -98,14 +98,14 @@ github_username:  charlesgek
 # syntax highlighter
 kramdown:
   syntax_highlighter: rouge
-  #syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
-    #css_class: highlight
+  syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: highlight
     # default_lang: console
-    #span:
-      #line_numbers: false
-    #block:
-      #line_numbers: true
-      #start_line: 1
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 permalink: pretty
 
 # Choose what to show ( can be true or false)

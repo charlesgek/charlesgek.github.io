@@ -45,6 +45,9 @@ html[data-theme="light"] {
 }
 
 @import
+    "colors/light-typography",
+    "colors/dark-typography",
+    
     "addon/module",
     "addon/variables",
     "addon/syntax";
