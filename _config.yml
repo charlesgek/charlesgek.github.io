@@ -1,4 +1,4 @@
-title: Charles GE K
+title: Charles GEK
 subtitle: Open Source, Privacy and Security
 description: >- # this means to ignore newlines until "baseurl:"
   This website cover Open Source, Privacy, and Security
@@ -19,7 +19,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.webp
-author: Charles GEK
+author: Charles GE K
 author_bio: Open Source advocate and Privacy and Security researcher 
 author_email: #
 author_location: London
